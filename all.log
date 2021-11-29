@@ -1,0 +1,34 @@
+2021-11-21 22:25:25,701 	 [] [restartedMain] INFO  com.xianwen.xuexi.WebApplication-	Starting WebApplication using Java 1.8.0_102 on DESKTOP-JOFVE13 with PID 25468 (E:\xuexiProject\target\classes started by admin in E:\xuexiProject)
+2021-11-21 22:25:25,702 	 [] [restartedMain] INFO  com.xianwen.xuexi.WebApplication-	No active profile set, falling back to default profiles: default
+2021-11-21 22:25:25,954 	 [] [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor-	Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-11-21 22:25:25,954 	 [] [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor-	For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-11-21 22:25:26,981 	 [] [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer-	Tomcat initialized with port(s): 8080 (http)
+2021-11-21 22:25:26,991 	 [] [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol-	Initializing ProtocolHandler ["http-nio-8080"]
+2021-11-21 22:25:26,992 	 [] [restartedMain] INFO  org.apache.catalina.core.StandardService-	Starting service [Tomcat]
+2021-11-21 22:25:26,992 	 [] [restartedMain] INFO  org.apache.catalina.core.StandardEngine-	Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-21 22:25:27,099 	 [] [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-	Initializing Spring embedded WebApplicationContext
+2021-11-21 22:25:27,100 	 [] [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext-	Root WebApplicationContext: initialization completed in 1135 ms
+2021-11-21 22:25:27,481 	 [] [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer-	LiveReload server is running on port 35729
+2021-11-21 22:25:27,493 	 [] [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol-	Starting ProtocolHandler ["http-nio-8080"]
+2021-11-21 22:25:27,516 	 [] [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer-	Tomcat started on port(s): 8080 (http) with context path ''
+2021-11-21 22:25:27,528 	 [] [restartedMain] INFO  com.xianwen.xuexi.WebApplication-	Started WebApplication in 2.725 seconds (JVM running for 4.656)
+2021-11-21 22:25:35,742 	 [] [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-	Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-21 22:25:35,742 	 [] [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-	Initializing Servlet 'dispatcherServlet'
+2021-11-21 22:25:35,743 	 [] [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-	Completed initialization in 1 ms
+2021-11-21 22:32:03,151 	 [] [restartedMain] INFO  com.xianwen.xuexi.WebApplication-	Starting WebApplication using Java 1.8.0_102 on DESKTOP-JOFVE13 with PID 11048 (E:\xuexiProject\target\classes started by admin in E:\xuexiProject)
+2021-11-21 22:32:03,152 	 [] [restartedMain] INFO  com.xianwen.xuexi.WebApplication-	No active profile set, falling back to default profiles: default
+2021-11-21 22:32:03,401 	 [] [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor-	Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-11-21 22:32:03,401 	 [] [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor-	For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-11-21 22:32:04,418 	 [] [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer-	Tomcat initialized with port(s): 8080 (http)
+2021-11-21 22:32:04,430 	 [] [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol-	Initializing ProtocolHandler ["http-nio-8080"]
+2021-11-21 22:32:04,431 	 [] [restartedMain] INFO  org.apache.catalina.core.StandardService-	Starting service [Tomcat]
+2021-11-21 22:32:04,431 	 [] [restartedMain] INFO  org.apache.catalina.core.StandardEngine-	Starting Servlet engine: [Apache Tomcat/9.0.54]
+2021-11-21 22:32:04,541 	 [] [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-	Initializing Spring embedded WebApplicationContext
+2021-11-21 22:32:04,542 	 [] [restartedMain] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext-	Root WebApplicationContext: initialization completed in 1141 ms
+2021-11-21 22:32:04,927 	 [] [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer-	LiveReload server is running on port 35729
+2021-11-21 22:32:04,938 	 [] [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol-	Starting ProtocolHandler ["http-nio-8080"]
+2021-11-21 22:32:04,959 	 [] [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer-	Tomcat started on port(s): 8080 (http) with context path ''
+2021-11-21 22:32:04,970 	 [] [restartedMain] INFO  com.xianwen.xuexi.WebApplication-	Started WebApplication in 2.45 seconds (JVM running for 4.346)
+2021-11-21 22:32:16,063 	 [] [http-nio-8080-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-	Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-21 22:32:16,063 	 [] [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet-	Initializing Servlet 'dispatcherServlet'
+2021-11-21 22:32:16,064 	 [] [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet-	Completed initialization in 1 ms
