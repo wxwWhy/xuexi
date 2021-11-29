@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 @Slf4j
 public class HelloWorldController {
 
-    @ApiOperation(value = "示例")
+    @ApiOperation(value = "示例1")
     @RequestMapping(value = "helloWorld", method = RequestMethod.POST)
     public String helloWorld() {
         String string = "helloWorld";
