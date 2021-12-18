@@ -50,6 +50,8 @@ public class IpUtils {
                         /** 选择本地网段192 */
                         if (inetAddress.getHostAddress().contains("10.")) {
                             ip = inetAddress.getHostAddress();
+                        } else if (inetAddress.getHostAddress().contains("192.")) {
+                            ip = inetAddress.getHostAddress();
                         }
                         break;
                     }
